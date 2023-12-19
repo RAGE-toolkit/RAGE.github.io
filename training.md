@@ -1,5 +1,5 @@
 ---
-title: Landing
+title: Training
 layout: landing
 description: 'Building genomics expertise'
 image: assets/images/RAGE_train.jpg
