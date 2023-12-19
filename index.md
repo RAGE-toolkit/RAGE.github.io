@@ -3,7 +3,7 @@ layout: home
 title: Home
 landing-title: 'RAGE'
 description: null
-image: null
+image: assets/images/RAGE.jpg
 author: null
 show_tile: false
 ---
