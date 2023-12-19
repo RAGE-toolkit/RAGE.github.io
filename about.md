@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-image: assets/images/pic01.jpg
+image: assets/images/RAGE.jpg
 nav-menu: true
 ---
 
@@ -12,7 +12,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Elements</h1>
+			<h1>About RAGE</h1>
 		</header>
 
 <!-- Content -->
