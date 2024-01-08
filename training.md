@@ -2,7 +2,7 @@
 title: Training
 layout: landing
 description: 'Building genomics expertise'
-image: assets/images/RAGE_train.jpg
+image: assets/images/training.png
 nav-menu: true
 ---
 
