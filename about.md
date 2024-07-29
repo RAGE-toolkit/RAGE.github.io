@@ -30,7 +30,7 @@ nav-menu: true
 	<div class="box box_moon3">
 		<h3>Genomic Epidemiology</h3>
 		<p>Pathogen sequence data is a powerful form of intelligence that can provide key and unique insights into pathogen spread. </p>
-</div>
+    </div>
 
 <hr class="major" />
         <!-- Break -->
