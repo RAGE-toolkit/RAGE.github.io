@@ -17,19 +17,29 @@ nav-menu: true
 
 <!-- Content -->
 <h2 id="content">RAGE is a research project led by Dr Kirstyn Brunker (University of Glasgow) and aims to be a resource for rabies virus genomic surveillance and other One Health informed genomics research. </h2>
+<p>Coming soon...</p>
 <div class="row">
 	<div class="6u 12u$(small)">
-		<h3>Rabies</h3>
-		<p>Rabies is a fatal zoonotic pathogen that can infect all mammals. </p>
+		<h3>Sem turpis amet semper</h3>
+		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h3>Accessible</h3>
-		<p>Genetic sequencing of pathogens has revolutionized the surveillance of infectious diseases, empowering scientists and health officials to anticipate and respond effectively to outbreaks. Despite their transformative potential, next-generation sequencing technologies have traditionally been inaccessible to many in the global scientific community, particularly in the Global South. This is primarily due to the prohibitively high capital costs and a widespread deficiency in laboratory infrastructure and genomics expertise. Ironically, it is in these regions where genomic surveillance could yield the most crucial insights, underscoring the urgent need for equitable access to such transformative technologies.</p>
+		<h3>Magna odio tempus commodo</h3>
+		<p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
 	</div>
 	<!-- Break -->
-	<div class="6u$ 12u$(small)">
-		<h3>Genomic Epidemiology</h3>
-		<p>Pathogen sequence data is a powerful form of intelligence that can provide key and unique insights into pathogen spread. </p>
+	<div class="4u 12u$(medium)">
+		<h3>Interdum sapien gravida</h3>
+		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+	</div>
+	<div class="4u 12u$(medium)">
+		<h3>Faucibus consequat lorem</h3>
+		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+	</div>
+	<div class="4u$ 12u$(medium)">
+		<h3>Accumsan montes viverra</h3>
+		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+	</div>
 </div>
 
 <hr class="major" />
