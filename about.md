@@ -33,7 +33,6 @@ nav-menu: true
     </div>
 
 <hr class="major" />
-        <!-- Break -->
 
 <!-- Image -->
 <div class="image-container">
@@ -43,7 +42,6 @@ nav-menu: true
     </div>
 </div>
 
-<h3>Image</h3>
         <!-- Break -->
  <div class="image-container">
     <img src="{% link assets/images/pic03.jpg %}" alt="Sample Image" class="image">
@@ -52,13 +50,10 @@ nav-menu: true
     </div>
 </div>
 
-<h4>Fit</h4>
 		<!-- Break -->
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic10.jpg %}" alt="" /></span></div>
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic08.jpg %}" alt="" /></span></div>
 		<div class="4u$"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span></div>
-	</div>
-</div>
 
 
 </div>
