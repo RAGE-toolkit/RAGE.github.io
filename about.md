@@ -21,13 +21,12 @@ nav-menu: true
 <div class="row">
 	<div class="4u 12u$(small) box box_red">
 		<h3>Rabies</h3>
-		<p>Rabies is a fatal zoonotic pathogen that can infect all mammals. </p>
+		<p><span class="image left"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span>Rabies is a fatal zoonotic pathogen that can infect all mammals. </p>
 	</div>
 	<div class="4u$ 12u$(small) box">
 		<h3>Accessible</h3>
 		<p>Genetic sequencing of pathogens has revolutionized the surveillance of infectious diseases, empowering scientists and health officials to anticipate and respond effectively to outbreaks. Despite their transformative potential, next-generation sequencing technologies have traditionally been inaccessible to many in the global scientific community, particularly in the Global South. This is primarily due to the prohibitively high capital costs and a widespread deficiency in laboratory infrastructure and genomics expertise. Ironically, it is in these regions where genomic surveillance could yield the most crucial insights, underscoring the urgent need for equitable access to such transformative technologies.</p>
 	</div>
-	<!-- Break -->
 	<div class="4u$ 12u$(small) box">
 		<h3>Genomic Epidemiology</h3>
 		<p>Pathogen sequence data is a powerful form of intelligence that can provide key and unique insights into pathogen spread. </p>
