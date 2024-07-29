@@ -2,7 +2,7 @@
 layout: page
 title: About
 image: assets/images/RAGE_small.jpg
-nav-menu: true
+nav-menu: false
 ---
 
 <!-- Main -->
