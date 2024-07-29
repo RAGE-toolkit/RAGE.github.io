@@ -34,19 +34,11 @@ nav-menu: true
 
 <hr class="major" />
 
-<!-- Image -->
-<div class="image-container">
-    <img src="{% link assets/images/pic03.jpg %}" alt="Sample Image" class="image">
-    <div class="overlay">
-        <div class="text">Your Text Here</div>
-    </div>
-</div>
-
         <!-- Break -->
  <div class="image-container">
     <img src="{% link assets/images/pic03.jpg %}" alt="Sample Image" class="image">
     <div class="overlay">
-        <div class="text">Your Text Here</div>
+        <div class="text">Test</div>
     </div>
 </div>
 
