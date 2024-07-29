@@ -17,7 +17,7 @@ nav-menu: true
 
 <!-- Content -->
 
-<h2 id="content">RAGE is a research project led by Dr Kirstyn Brunker (University of Glasgow) and aims to be a resource for rabies virus genomic surveillance and other One Health informed genomics research. </h2>
+<h2 id="content">RAGE is a research project led by Dr. Kirstyn Brunker from the University of Glasgow, in collaboration with partners across Africa, Asia, and Latin America. The project aims to be a valuable resource for rabies virus genomic surveillance and other One Health-informed genomics research. </h2>
 <div class="row">
 	<div class="box box_moon1">
 		<h3>Rabies</h3>
@@ -36,6 +36,13 @@ nav-menu: true
         <!-- Break -->
 
 <!-- Image -->
+<div class="image-container">
+    <img src="{% link assets/images/pic03.jpg %}" alt="Sample Image" class="image">
+    <div class="overlay">
+        <div class="text">Your Text Here</div>
+    </div>
+</div>
+
 <h3>Image</h3>
         <!-- Break -->
  <div class="image-container">
