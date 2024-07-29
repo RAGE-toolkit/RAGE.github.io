@@ -38,14 +38,12 @@ nav-menu: true
 <!-- Image -->
 <h3>Image</h3>
         <!-- Break -->
-        <div class="4u">
-            <div class="image-container">
-                <img src="{% link assets/images/pic09.jpg %}" alt="Sample Image" class="image">
-                <div class="overlay">
-                    <div class="text">Your Text Here</div>
-                </div>
-            </div>
-        </div>
+ <div class="image-container">
+    <img src="{% link assets/images/pic03.jpg %}" alt="Sample Image" class="image">
+    <div class="overlay">
+        <div class="text">Your Text Here</div>
+    </div>
+</div>
 
 <h4>Fit</h4>
 <span class="image fit"><img src="{% link assets/images/pic03.jpg %}" alt="" /></span>
