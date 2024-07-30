@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px; /* Adjust the gap as needed */
+}
+
+.box {
+    flex: 1;
+    padding: 20px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    background-color: #f9f9f9;
+    min-width: 200px; /* Adjust the minimum width as needed */
+    max-width: 32%; /* Adjust the max width to fit 3 boxes in a row */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.image.left {
+    float: left;
+    margin-right: 20px;
+    width: 50px; /* Adjust the width as needed */
+}
+
+.box_moon1 {
+    background-color: #d1e7fd;
+    border-color: #b6d4fe;
+}
+
+.box_moon2 {
+    background-color: #e7fdd1;
+    border-color: #d4feb6;
+}
+
+.box_moon3 {
+    background-color: #fde7d1;
+    border-color: #feb6b6;
+}
