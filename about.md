@@ -21,7 +21,7 @@ nav-menu: true
         <div class="row">
             <div class="box box_moon1">
                 <h3>Rabies</h3>
-                <p>Rabies is a fatal zoonotic pathogen that can infect all mammals. Despite a vaccine that is 100% effective, rabies still kills 59,000 people every year, primarily via bites from infected rabid dogs. </p>
+                <p>Rabies is a fatal zoonotic pathogen that can infect all mammals. Despite a vaccine that is 100% effective, rabies still kills 67,000 people every year, primarily via bites from infected rabid dogs. </p>
             </div>
             <div class="box box_moon2">
                 <h3>Accessible</h3>
