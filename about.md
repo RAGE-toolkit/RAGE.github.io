@@ -25,11 +25,11 @@ nav-menu: true
             </div>
             <div class="box box_moon2">
                 <h3>Accessible</h3>
-                <p>The Next-generation sequencing technologies, particularly "4th generation" like Nanopore, have transformative potential in the global scientific community, particularly in the Global South. RAGE aims to improve access to cutting-edge, accessible sequencing technologies that can be used in low-resource settings.</p>
+                <p>Next-generation sequencing technologies, particularly "4th generation" like Nanopore, have transformative potential in the global scientific community, particularly in the Global South. RAGE aims to improve access to cutting-edge, accessible sequencing technologies that can be used in low-resource settings.</p>
             </div>
             <div class="box box_moon3">
                 <h3>Genomic Epidemiology</h3>
-                <p>Pathogen sequence data is a powerful form of intelligence that can provide key and unique insights into pathogen spread. Genetic sequencing of pathogens has revolutionized the surveillance of infectious diseases, empowering scientists and health officials to anticipate and respond effectively to outbreaks. </p>
+                <p>Pathogen sequence data is a powerful form of intelligence that can provide key and unique insights into pathogen spread. This can empower scientists and health officials to anticipate and respond effectively to outbreaks. </p>
             </div>
         </div>
         
