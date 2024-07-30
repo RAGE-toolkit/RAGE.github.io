@@ -2,10 +2,10 @@
 title: Rabies Accessible Genomic Epidemiology
 subtitle: RAGE
 email: kirstyn.brunker@glasgow.ac.uk
-description: RAGE is a research project led by Dr. Kirstyn Brunker from the University of Glasgow, in collaboration with partners across Africa, Asia, and Latin America. The project aims to be a valuable resource for rabies virus genomic surveillance and other One Health-informed genomics research.
+description: A toolkit for rabies virus sequencing and analysis
 baseurl: "/RAGE" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
-author:
+author: Kirstyn Brunker
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
