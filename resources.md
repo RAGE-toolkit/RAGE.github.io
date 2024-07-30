@@ -13,9 +13,9 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2>RABV-GLUE</h2>
 		</header>
-		<p>Coming</p>
+        <p><a href="http://rabv-glue.cvr.gla.ac.uk/#/home" class="button">RABV-GLUE</a></p>
 	</div>
 </section>
 
@@ -28,9 +28,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Upcoming</h3>
+					<h3>MADDOG</h3>
 				</header>
-				<p>The next training event will be held in Abuja, Nigeria (Feb 2024).</p>
+        <p><a href="https://github.com/KathrynCampbell/MADDOG/tree/v3" class="button">MADDOG</a></p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
