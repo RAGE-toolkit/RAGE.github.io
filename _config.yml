@@ -2,7 +2,7 @@
 title: Rabies Accessible Genomic Epidemiology
 subtitle: RAGE
 email: kirstyn.brunker@glasgow.ac.uk
-description: A toolkit for rabies virus sequencing and analysis
+description:A collaborative research project and toolkit for rabies virus sequencing, analysis, and genomic surveillance.
 baseurl: "/RAGE" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Kirstyn Brunker
