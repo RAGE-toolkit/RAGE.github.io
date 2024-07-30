@@ -31,9 +31,6 @@ nav-menu: true
 					<h3>MADDOG</h3>
 				</header>
         <p><a href="https://github.com/KathrynCampbell/MADDOG/tree/v3" class="button">MADDOG</a></p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
 			</div>
 		</div>
 	</section>
