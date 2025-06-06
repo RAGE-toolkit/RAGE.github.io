@@ -79,3 +79,30 @@
 	@import 'layout/footer';
 	@import 'layout/wrapper';
 	@import 'layout/menu';
+	
+	.boxes {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.box {
+  border: 1px solid #ccc;
+  padding: 1.5rem;
+  border-radius: 12px;
+  background-color: #fff;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+  text-align: center;
+}
+
+.box h3 {
+  margin-top: 0;
+}
+
+.box img {
+  max-width: 100%;
+  margin-bottom: 1rem;
+  border-radius: 8px;
+}
+

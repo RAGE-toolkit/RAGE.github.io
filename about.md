@@ -21,15 +21,15 @@ nav-menu: true
         <div class="row">
             <div class="box box_moon1">
                 <h3>Rabies</h3>
-                <p>Rabies is a fatal zoonotic pathogen that can infect all mammals. Despite a vaccine that is 100% effective, rabies still kills 67,000 people every year, primarily via bites from infected rabid dogs. </p>
+                <p>Rabies is a fatal zoonotic pathogen that can infect all mammals. \nDespite a vaccine that is 100% effective, rabies still kills 67,000 people every year, primarily via bites from infected rabid dogs. </p>
             </div>
             <div class="box box_moon2">
                 <h3>Accessible</h3>
-                <p>Next-generation sequencing technologies, particularly "4th generation" like Nanopore, have transformative potential in the global scientific community, particularly in the Global South. RAGE aims to improve access to cutting-edge, accessible sequencing technologies that can be used in low-resource settings.</p>
+                <p>RAGE aims to improve access to cutting-edge, accessible sequencing technologies that can be used in low-resource settings. \nOur emphasis is on nanopore sequencing due to its portability and ease of use.</p>
             </div>
             <div class="box box_moon3">
                 <h3>Genomic Epidemiology</h3>
-                <p>Pathogen sequence data is a powerful form of intelligence that can provide key and unique insights into pathogen spread. This can empower scientists and health officials to anticipate and respond effectively to outbreaks. </p>
+                <p>Pathogen sequence data is a powerful form of intelligence that can provide key and unique insights into pathogen spread. \nThis can empower scientists and health officials to anticipate and respond effectively to outbreaks. </p>
             </div>
         </div>
         
