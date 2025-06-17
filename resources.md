@@ -2,7 +2,6 @@
 title: Resources
 layout: landing
 description: 'RAGE toolkit'
-image: assets/images/training.png
 nav-menu: true
 ---
 
