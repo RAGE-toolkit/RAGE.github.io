@@ -1,9 +1,37 @@
----
-layout: post
-title: Publications
-description: 
-image: assets/images/publications2.jpeg
-nav-menu: true
----
+## 📚 Publications
 
-Coming...
+- **MultiSeq-AMR: a modular amplicon-sequencing workflow for rapid detection of bloodstream infection and antimicrobial resistance markers**, _Microbial Genomics_, 2025 [DOI](https://doi.org/10.1099/mgen.0.001383)
+- **Genomic characterization of a dog-mediated rabies outbreak in El Pedregal, Arequipa, Peru**, _PLOS Neglected Tropical Diseases_, 2025 [DOI](https://doi.org/10.1371/journal.pntd.0012396)
+- **From emergence to endemicity of highly pathogenic H5 avian influenza viruses in Taiwan**, _Nature Communications_, 2024 [DOI](https://doi.org/10.1038/s41467-024-53816-y)
+- **MultiSeq-AMR: A modular amplicon-sequencing workflow for rapid detection of bloodstream infection and antimicrobial resistance markers**, 2024 [DOI](https://doi.org/10.1101/2024.10.25.24316117)
+- **Advances in Host Depletion and Pathogen Enrichment Methods for Rapid Sequencing–Based Diagnosis of Bloodstream Infection**, _The Journal of Molecular Diagnostics_, 2024 [DOI](https://doi.org/10.1016/j.jmoldx.2024.05.008)
+- **Genomic Characterization of a Dog-Mediated Rabies Outbreak in El Pedregal, Arequipa, Peru**, 2024 [DOI](https://doi.org/10.1101/2024.08.21.608982)
+- **Rapid pathogen surveillance: field-ready sequencing solutions**, _Nature Reviews Genetics_, 2024 [DOI](https://doi.org/10.1038/s41576-024-00734-w)
+- **From emergence to endemicity: highly pathogenic H5 avian influenza viruses in Taiwan**, 2024 [DOI](https://doi.org/10.1101/2024.06.19.24309176)
+- **Viral sequencing to inform the global elimination of dog-mediated rabies - a systematic review**, _One Health & Implementation Research_, 2024 [DOI](https://doi.org/10.20517/ohir.2023.61)
+- **Examining the molecular clock hypothesis for the contemporary evolution of the rabies virus**, 2023 [DOI](https://doi.org/10.1101/2023.09.04.556169)
+- **Uncovering the endemic circulation of rabies in Cambodia**, _Molecular Ecology_, 2023 [DOI](https://doi.org/10.1111/mec.17087)
+- **Integrating contact tracing and whole-genome sequencing to track the elimination of dog-mediated rabies**, 2022 [DOI](https://doi.org/10.1101/2022.11.24.22282675)
+- **Making genomic surveillance deliver: A lineage classification and nomenclature system to inform rabies elimination**, _PLOS Pathogens_, 2022 [DOI](https://doi.org/10.1371/journal.ppat.1010023)
+- **Rabies shows how scale of transmission can enable acute infections to persist at low prevalence**, _Science_, 2022 [DOI](https://doi.org/10.1126/science.abn0713)
+- **Making Genomic Surveillance Deliver: A Lineage Classification and Nomenclature System to Inform Rabies Elimination**, 2021 [DOI](https://doi.org/10.1101/2021.10.13.464180)
+- **Author Correction: Genomic epidemiology reveals multiple introductions of SARS-CoV-2 from mainland Europe into Scotland**, _Nature Microbiology_, 2021 [DOI](https://doi.org/10.1038/s41564-021-00869-0)
+- **Publisher Correction: Genomic epidemiology reveals multiple introductions of SARS-CoV-2 from mainland Europe into Scotland**, _Nature Microbiology_, 2021 [DOI](https://doi.org/10.1038/s41564-021-00865-4)
+- **Genomic epidemiology reveals multiple introductions of SARS-CoV-2 from mainland Europe into Scotland**, _Nature Microbiology_, 2020 [DOI](https://doi.org/10.1038/s41564-020-00838-z)
+- **Rapid in-country sequencing of whole virus genomes to inform rabies elimination programmes**, _Wellcome Open Research_, 2020 [DOI](https://doi.org/10.12688/wellcomeopenres.15518.2)
+- **Rabies virus MinION sequencing protocol**, _protocols.io_, 2020 [DOI](https://doi.org/dx.doi.org/10.17504/protocols.io.ba4figtn)
+- **Washing a MinION flowcell**, _protocols.io_, 2020 [DOI](https://doi.org/dx.doi.org/10.17504/protocols.io.bddzi276)
+- **One-pot native barcoding of amplicons (Ultra II AMII ligation)**, _protocols.io_, 2020 [DOI](https://doi.org/dx.doi.org/10.17504/protocols.io.bdaqi2dw)
+- **RNA extraction from field-collected brain tissue samples from suspect rabid animals**, _protocols.io_, 2020 [DOI](https://doi.org/dx.doi.org/10.17504/protocols.io.bdcei2te)
+- **DNA quantification using the Qubit fluorometer**, _protocols.io_, 2020 [DOI](https://doi.org/dx.doi.org/10.17504/protocols.io.bc6vize6)
+- **Rapid in-country sequencing of whole virus genomes to inform rabies elimination programmes [version 1; peer review: 3 approved]**, 2020 [DOI](https://doi.org/10.12688/wellcomeopenres.15518.1)
+- **Genomic sequencing, evolution and molecular epidemiology of rabies virus**, _Revue Scientifique et Technique de l'OIE_, 2018 [DOI](https://doi.org/10.20506/rst.37.2.2810)
+- **Rabies Virus**, _Trends in Microbiology_, 2018 [DOI](https://doi.org/10.1016/j.tim.2018.07.001)
+- **Landscape attributes governing local transmission of an endemic zoonosis: Rabies virus in domestic dogs**, _Molecular Ecology_, 2018 [DOI](https://doi.org/10.1111/mec.14470)
+- **Exploiting Genetic Information to Trace Plant Virus Dispersal in Landscapes**, _Annual Review of Phytopathology_, 2017 [DOI](https://doi.org/10.1146/annurev-phyto-080516-035616)
+- **Environmental risk factors for  Ixodes ricinus  ticks and their infestation on lambs in a changing ecosystem: Implications for tick control and the impact of woodland encroachment on tick-borne disease in livestock**, _Agriculture, Ecosystems & Environment_, 2017 [DOI](https://doi.org/10.1016/j.agee.2016.12.041)
+- **Surveillance to Establish Elimination of Transmission and Freedom from Dog-mediated Rabies**, 2016 [DOI](https://doi.org/10.1101/096883)
+- **Elucidating the phylodynamics of endemic rabies virus in eastern Africa using whole-genome sequencing**, _Virus Evolution_, 2015 [DOI](https://doi.org/10.1093/ve/vev011)
+- **Integrating the landscape epidemiology and genetics of RNA viruses: Rabies in domestic dogs as a model**, _Parasitology_, 2012 [DOI](https://doi.org/10.1017/S003118201200090X)
+- **Molecular mechanisms of drug resistance in natural leishmania populations vary with genetic background**, _PLoS Neglected Tropical Diseases_, 2012 [DOI](https://doi.org/10.1371/journal.pntd.0001514)
+- **Metabolomics to unveil and understand phenotypic diversity between pathogen populations**, _PLoS Neglected Tropical Diseases_, 2010 [DOI](https://doi.org/10.1371/journal.pntd.0000904)
