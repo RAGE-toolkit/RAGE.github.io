@@ -2,7 +2,7 @@
 title: Training
 layout: 
 description: 'Building genomics expertise'
-image: assets/images/training.png
+image: assets/images/train.png
 nav-menu: true
 ---
 
